@@ -1,0 +1,42 @@
+body {
+    font-family: 'Alata',sans-serif; 
+   
+}
+.form-delete {
+    width: 1200px;
+    margin: 40px auto;
+}
+
+.form-btn {
+    display: flex;
+    justify-content: center;
+}
+
+#btn-delete {
+    height: 100%;
+    color: #fff;
+    background-color: rgb(128, 184, 176);
+    border: 1px solid rgb(116, 175, 166);
+    border-radius: 6px;
+}
+
+#btn-delete:hover {
+    background-color:rgb(60, 163, 141);
+}
+
+.btn-list {
+    width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+.btn-link{
+    color:rgb(60, 163, 141);
+}
+.btn-link:hover{
+    background-color:rgb(60, 163, 141);
+}
+.content_delete{
+    background-color:rgb(60, 163, 141);
+    color: #fff;
+}

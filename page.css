@@ -1,0 +1,128 @@
+#header {
+	background: #687e95;
+	height: 145px;
+}
+#serviceLeft {
+	font-family: serif;
+	width: 460px;
+	height: 40px;
+	margin-left: 200px;
+	float: left;
+	clear: both;
+}
+#serviceLeft ul {
+	font-size: 15px;
+}
+#serviceLeft ul li {
+	display: inline-table;
+	list-style-type: none;
+	line-height: 40px;
+	text-align: center;
+	padding: 0 5px;
+}
+#serviceLeft ul li a {
+	color: white;
+	text-decoration: none;
+}
+#serviceLeft ul li a:hover {
+	color: #e7e1e1;
+}
+#icon1 {
+	width: 20px;
+	height: 20px;
+	border-radius: 8px;
+}
+#icon2 {
+	width: 46px ;
+	height: 52px;
+}
+#insIcon {
+	width: 20px;
+	height: 20px;
+	border-radius: 8px;
+}
+#serviceRight {
+	font-family: serif;
+	padding:5px 0 0 0;
+	float: right;
+	width: 470px;
+	height: 40px;
+	margin-right: 190px;
+}
+#serviceRight ul {
+	font-size: 15px;
+}
+#serviceRight ul li {
+	display: inline-table;
+	list-style-type: none;
+	line-height: 40px;
+	padding: 0 5px;
+	text-align: center;
+}
+#serviceRight ul li a {
+	color: white;
+	text-decoration: none;
+}
+#serviceRight ul li a:hover {
+	color: #e7e1e1;
+}
+#logo {
+	width: 100%;
+	height: 70px;
+	display: inline-table;
+    margin-left: 80px;
+}
+#logo > img {
+	width: 170px;
+	height: 80px;
+	margin-left: 160px;
+}
+#logo > #search {
+	width: 600px;
+	margin: 0 auto;
+	margin-left: 40px;
+	padding: 6px 20px;
+	border-radius: 25px 0 0 25px;
+}
+#logo > #submit {
+	width: 100px;
+	height: 40px;
+	border-radius: 0 25px 25px 0;
+}
+#logo > #icon2 {
+	width: 65px;
+	height: 55px;
+    margin-right: 100px;
+}
+#menuSidebar {
+	font-family: serif;
+	width: 700px;
+	height: 22px;
+	margin-left: 420px;
+}
+#menuSidebar ul {
+	font-size: 15px;
+}
+#menuSidebar ul li {
+	display: inline-table;
+	list-style-type: none;
+	line-height: 22px;
+	padding: 0 8px;
+}
+#menuSidebar ul li a {
+	color: white;
+	text-decoration: none;
+}
+#menuSidebar ul li a:hover {
+	color: #e7e1e1;
+}
+
+
+
+
+
+
+
+
+
+
